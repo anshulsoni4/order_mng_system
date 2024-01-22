@@ -1,0 +1,17 @@
+{
+    "development": {
+      "username": "root",
+      "password": "your_password",
+      "database": "order_management_system",
+      "host": "127.0.0.1",
+      "dialect": "mysql",
+      "operatorsAliases": 0
+    },
+    "test": {
+      // Test database configuration
+    },
+    "production": {
+      // Production database configuration
+    }
+  }
+  
